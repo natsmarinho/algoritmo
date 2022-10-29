@@ -34,7 +34,7 @@ return word
 Para vermos o resultado, coloquei um console.log(‘word’)
 
 Para execução da função, chamei ela ao final do código
-newStr(‘hello’)
+newStr(‘Ally’)
 
 ## Author
 - Frontend Mentor - [@natsmarinho](https://www.frontendmentor.io/profile/natsmarinho)
